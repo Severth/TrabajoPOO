@@ -2,12 +2,11 @@ import java.util.Scanner;
 
 public class Ejercicio4 {
     public static void main(String[] args) {
-        int edadAna;
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingresa la edad de Juan: ");
         
         
-        
+        int edadAna;
         int edadJuan = scanner.nextInt();
         int edadAlberto;
         int edadMama;
